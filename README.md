@@ -1,14 +1,19 @@
 # pokedex_flutter
 
-A new Flutter project.
+A Pokedex application created in the Flutter framework.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project:
+1. Ensure Flutter is installed on your local machine
+2. Clone this repository
+3. CD into the root folder of the repository
+4. Enter the command 'flutter run'
+5. Enter a number in the terminal for the requested OS. Pokedex should automatically launch on the selected system.
 
-A few resources to get you started if this is your first Flutter project:
+Resources:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Medium: https://medium.com/@omlondhe/creating-a-flutter-pokedex-23c167cae043)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
