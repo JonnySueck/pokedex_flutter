@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pokedex_flutter/models/pokemon_detail.dart';
 import 'package:pokedex_flutter/widgets/pokemon_card_background.dart';
 import 'package:pokedex_flutter/widgets/pokemon_card_data.dart';
 
@@ -30,8 +31,9 @@ class PokemonCard extends StatelessWidget {
           splashColor: Colors.red[50],
           onTap: () => {
                 Navigator.pushNamed(
-                  context, "/details",
-                  // arguments: PokemonScreenData(id, name, image),
+                  context,
+                  "/details",
+                  arguments: PokemonDetail(id, name, image),
                 )
               },
           child: Container(
