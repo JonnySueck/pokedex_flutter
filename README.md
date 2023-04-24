@@ -14,7 +14,6 @@ To run this project:
 Resources:
 
 - [Medium: https://medium.com/@omlondhe/creating-a-flutter-pokedex-23c167cae043)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
