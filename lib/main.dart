@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:pokedex_flutter/screens/detail.dart';
 import 'package:pokedex_flutter/screens/home.dart';
+
+import 'package:pokedex_flutter/models/pokemon_detail.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,7 +22,7 @@ class MyApp extends StatelessWidget {
       initialRoute: "/",
       routes: {
         "/": (context) => const Home(),
-        // "/details": (context) => const Details()
+        "/details": (context) => const Detail()
       },
     );
   }
