@@ -1,6 +1,9 @@
 # pokedex_flutter
 
 A Pokedex application created in the Flutter framework.
+<img width="1043" alt="Screenshot 2023-11-30 at 4 11 39 PM" src="https://github.com/JonnySueck/pokedex_flutter/assets/36180489/15213207-4175-4edd-94d2-325036881468">
+<img width="1046" alt="Screenshot 2023-11-30 at 4 11 50 PM" src="https://github.com/JonnySueck/pokedex_flutter/assets/36180489/50108ec8-2158-44e6-94d4-69004ada860d">
+
 
 ## Getting Started
 
